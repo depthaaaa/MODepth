@@ -1,6 +1,4 @@
-# MODepth: Mixed Features and Orthogonal Representations for
-Self-supervised Monocular Depth Estimation
-
+# MODepth: Mixed Features and Orthogonal Representations for Self-supervised Monocular Depth Estimation
 
 
 # Upcoming releases
