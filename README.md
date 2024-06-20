@@ -1,6 +1,23 @@
 # MODepth: Mixed Features and Orthogonal Representations for Self-supervised Monocular Depth Estimation
 
 
+
+# Pipeline of MODepth
+
+
+
+![image](./assests/pipline.png)
+
+# Depth error and spatial projection maps
+
+![image](./assests/error.png)
+
+# Ablation study
+
+
+
+
+
 # Upcoming releases
 
 - [x] release code for evaluating in KITTI
@@ -10,7 +27,7 @@
 ## Inference
 
 ```bash
-python test_simple.py
+python test_simple.py 
 ```
 
 
@@ -34,6 +51,14 @@ python -m manydepth.evaluate_depth \
 ```
 
 Make sure you have first run `export_gt_depth.py` to extract ground truth files.
+
+## Acknowledgement
+
+Special thanks to the following awesome projects!
+
+- [ManyDepth](https://github.com/nianticlabs/manydepth)
+- [PlaneDepth](https://github.com/svip-lab/PlaneDepth)
+- [Binsformer](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 
 ##  License
 
