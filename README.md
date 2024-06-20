@@ -8,7 +8,15 @@
 
 ![image](./assests/pipline.png)
 
+# Observation with MeshLab
+
+To visually inspect whether the generated depth map effectively planarized pixels on the same plane, we project the depth and its color image into three-dimensional space and utilize MeshLab for observation.
+
+![image](./assests/meshlab.gif)
+
 # Depth error and spatial projection maps
+
+We have individually compared the depth maps and their error metrics produced by MonoDepthv2, ManyDepth, and MODepth on the KITTI dataset. We projected these onto 3D space to observe the positioning of the targets and whether the foreground targets are coplanar with the background. MODepth demonstrates effectiveness in separating the depth of foreground and background objects.
 
 ![image](./assests/error.png)
 
