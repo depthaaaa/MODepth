@@ -8,7 +8,7 @@
 
 ![image](./assests/pipline.png)
 
-# Observation with MeshLab
+#  Spatial projection observation with MeshLab
 
 To visually inspect whether the generated depth map effectively planarized pixels on the same plane, we project the depth and its color image into three-dimensional space and utilize MeshLab for observation.
 
