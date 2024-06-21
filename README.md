@@ -22,9 +22,9 @@ We have individually compared the depth maps and their error metrics produced by
 
 # Ablation study
 
+In our ablation study, we meticulously dissected the contributions of various components within MODepth to understand their impacts on performance. This systematic evaluation allowed us to identify the key factors that significantly enhance the accuracy and robustness of our depth estimation methodology.
 
-
-
+![image](./assests/abla.png)
 
 # Upcoming releases
 
