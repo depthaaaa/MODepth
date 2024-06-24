@@ -4,7 +4,7 @@
 
 # Pipeline of MODepth
 
-
+MODepth employs an encoder-decoder model to extract the features only from the source image, an orthogonal estimation model to infer the depth probability from the features, and an image matching method to train the whole model considering the warping loss based on the source image, target image and depth probability.
 
 ![image](./assests/pipline.png)
 
@@ -22,9 +22,11 @@ We have individually compared the depth maps and their error metrics produced by
 
 # Ablation study
 
-In our ablation study, we meticulously dissected the contributions of various components within MODepth to understand their impacts on performance. This systematic evaluation allowed us to identify the key factors that significantly enhance the accuracy and robustness of our depth estimation methodology.
+In our ablation study, we meticulously dissected the contributions of various components within MODepth to understand their impacts on performance. 
 
 ![image](./assests/abla.png)
+
+This systematic evaluation allowed us to identify the key factors that significantly enhance the accuracy and robustness of our depth estimation methodology.
 
 # Upcoming releases
 
