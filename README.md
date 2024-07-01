@@ -1,4 +1,58 @@
-# MODepth: Mixed Features and Orthogonal Representations for Self-supervised Monocular Depth Estimation
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Don't forget to give the project a star!
+*** Thanks again! Now go create something AMAZING! :D
+-->
+
+
+
+<!-- PROJECT SHIELDS -->
+<!--
+*** I'm using markdown "reference style" links for readability.
+*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
+*** See the bottom of this document for the declaration of the reference variables
+*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+-->
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+
+ <h3 align="center">MODepth: Mixed Features and Orthogonal Representations for Self-supervised Monocular Depth Estimation</h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about">About</a>
+    </li>
+    <li>
+      <a href="#Pipline of MODepth">Pipline of MODepth</a>
+    </li>
+    <li><a href="#Spatial projection observation with MeshLab">Spatial projection observation with MeshLab</a></li>
+    <li><a href="#Depth error and spatial projection maps">Depth error and spatial projection maps</a></li>
+    <li><a href="#Ablation study">Ablation study</a></li>
+    <li><a href="#Upcoming releases">Upcoming releases</a></li>  
+    <li><a href="#Inference">Inference</a></li>  
+    <li><a href="# Pretrained weights and evaluation"> Pretrained weights and evaluation</a></li>  
+    <li><a href="#Acknowledgement">Acknowledgments</a></li>
+    <li><a href="#license">License</a></li>
+  </ol>
+</details>
+
+# About
 
 
 
