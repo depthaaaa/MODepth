@@ -1,8 +1,10 @@
-<br />
-
  <h3 align="center">MODepth: Mixed Features and Orthogonal Representations for Self-supervised Monocular Depth Estimation</h3>
 
-</div>
+</p>
+
+  <a href="" target='_blank'>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=depthaaaa.MODepth&left_color=gray&right_color=red">
+  </a>
 
 <!-- TABLE OF CONTENTS -->
 
