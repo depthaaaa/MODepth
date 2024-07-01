@@ -30,27 +30,25 @@
 
 <!-- TABLE OF About-->
 
-
-
-# Pipeline of MODepth
+## Pipeline of MODepth
 
 MODepth employs an encoder-decoder model to extract the features only from the source image, an orthogonal estimation model to infer the depth probability from the features, and an image matching method to train the whole model considering the warping loss based on the source image, target image and depth probability.
 
 ![image](./assests/pipline.png)
 
-#  Spatial projection observation with MeshLab
+## Spatial projection observation with MeshLab
 
 To visually inspect whether the generated depth map effectively planarized pixels on the same plane, we project the depth and its color image into three-dimensional space and utilize MeshLab for observation.
 
 ![image](./assests/meshlab.gif)
 
-# Depth error and spatial projection maps
+## Depth error and spatial projection maps
 
 We have individually compared the depth maps and their error metrics produced by MonoDepthv2, ManyDepth, and MODepth on the KITTI dataset. We projected these onto 3D space to observe the positioning of the targets and whether the foreground targets are coplanar with the background. MODepth demonstrates effectiveness in separating the depth of foreground and background objects.
 
 ![image](./assests/error.png)
 
-# Ablation study
+## Ablation study
 
 In our ablation study, we meticulously dissected the contributions of various components within MODepth to understand their impacts on performance. 
 
@@ -58,7 +56,7 @@ In our ablation study, we meticulously dissected the contributions of various co
 
 This systematic evaluation allowed us to identify the key factors that significantly enhance the accuracy and robustness of our depth estimation methodology.
 
-# Upcoming releases
+## Upcoming releases
 
 - [x] release code for evaluating in KITTI
 
@@ -69,8 +67,6 @@ This systematic evaluation allowed us to identify the key factors that significa
 ```bash
 python test_simple.py 
 ```
-
-
 
 ## 💾 Pretrained weights and evaluation
 
@@ -100,7 +96,7 @@ Special thanks to the following awesome projects!
 - [PlaneDepth](https://github.com/svip-lab/PlaneDepth)
 - [Binsformer](https://github.com/zhyever/Monocular-Depth-Estimation-Toolbox)
 
-##  License
+## License
 
 
 All rights reserved. Please see the [license file](LICENSE) for terms.
