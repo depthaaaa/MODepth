@@ -18,21 +18,22 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about">About</a>
+      <a href="##about">About</a>
     </li>
     <li>
-      <a href="#Pipline of MODepth">Pipline of MODepth</a>
+      <a href="##Pipline of MODepth">Pipline of MODepth</a>
     </li>
-    <li><a href="#Spatial projection observation with MeshLab">Spatial projection observation with MeshLab</a></li>
-    <li><a href="#Depth error and spatial projection maps">Depth error and spatial projection maps</a></li>
-    <li><a href="#Ablation study">Ablation study</a></li>
-    <li><a href="#Upcoming releases">Upcoming releases</a></li>  
-    <li><a href="#Inference">Inference</a></li>  
-    <li><a href="# Pretrained weights and evaluation"> Pretrained weights and evaluation</a></li>  
-    <li><a href="#Acknowledgement">Acknowledgments</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="##Spatial projection observation with MeshLab">Spatial projection observation with MeshLab</a></li>
+    <li><a href="##Depth error and spatial projection maps">Depth error and spatial projection maps</a></li>
+    <li><a href="##Ablation study">Ablation study</a></li>
+    <li><a href="##Upcoming releases">Upcoming releases</a></li>  
+    <li><a href="##Inference">Inference</a></li>  
+    <li><a href="## Pretrained weights and evaluation"> Pretrained weights and evaluation</a></li>  
+    <li><a href="##Acknowledgement">Acknowledgments</a></li>
+    <li><a href="##license">License</a></li>
   </ol>
 </details>
+
 <!-- TABLE OF About-->
 
 ## About
