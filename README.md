@@ -27,8 +27,11 @@
     <li><a href="#license">License</a></li>
   </ol>
 </details>
-
 <!-- TABLE OF About-->
+
+## About
+
+MODepth is a robust-matching SMDE method utilizing global-local mixed features and imaging plane-optical axis orthogonal representations to constrain a consistent image matching for an accurate depth estimation. It conducted comprehensive experiments on the KITTI, CityScapes and Make3D datasets.
 
 ## Pipeline of MODepth
 
