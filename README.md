@@ -1,4 +1,4 @@
- <h3 align="center">MODepth: Mixed Features and Orthogonal Representations for Self-supervised Monocular Depth Estimation</h3>
+  <h1 align="center">MODepth: Mixed Features and Orthogonal Representations for Self-supervised Monocular Depth Estimation</h1>
 
 </p>
 
