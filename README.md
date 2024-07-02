@@ -8,9 +8,6 @@
   <a href="https://github.com/depthaaaa/github-readme-quotes/issues">
     <img src="https://img.shields.io/github/issues/depthaaaa/github-readme-quotes?style=flat-square">
   </a>
-  <a href="https://github.com/depthaaaa/github-readme-quotes/pulls">
-    <img src="https://img.shields.io/github/issues-pr/depthaaaa/github-readme-quotes?style=flat-square">
-  </a>
   <a href="" target='_blank'>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=depthaaaa.MODepth&left_color=gray&right_color=red">
   </a>
